@@ -1,4 +1,4 @@
-### Yo! this is Do_Whi_Lee
+### Data Scientist | Data Analyst | Software Engineer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Skill-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,12 +22,9 @@
 
 
 </div>
-
-- 🔭 I’m currently working on Afronautas
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on node/js
 - 🤔 I’m looking for help with Open source projects to work on
 - 💬 Ask me about anything you are curious about
-- 😄 Nickname: Do whi Lee
-- ⚡ Fun fact: I Will conquer the world
+- 😄 Nickname: Do whi Le
 
