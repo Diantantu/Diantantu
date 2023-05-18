@@ -22,6 +22,7 @@
 
 
 </div>
+
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on node/js
 - 🤔 I’m looking for help with Open source projects to work on
